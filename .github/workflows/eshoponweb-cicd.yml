@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 707a8bbd-d705-4461-a420-af6c2abb5c51
+  SUBSCRIPTION-ID: '707a8bbd-d705-4461-a420-af6c2abb5c51'
   WEBAPP-NAME: eshoponweb-webapp-KKK
 
 
